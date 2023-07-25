@@ -1,7 +1,7 @@
 # AI-Quest-30
 
 <p align="center">
-  <img src="path/to/your/logo_or_banner.png" alt="AI Quest 30 Logo">
+  <img src="https://github.com/Sreejavastar/AI-Quest-30/blob/main/Images/AI-Banner.jpg" alt="AI Quest 30 Logo">
 </p>
 
 > Embark on a 30-day AI adventure! Follow my journey as I delve into the captivating realms of Artificial Intelligence, unraveling the mysteries of machine learning, neural networks, and data magic. Join me in this epic quest to wield the power of AI and unlock new horizons of knowledge. Together, let's shape a smarter future, one commit at a time! 🚀🤖
